@@ -1,0 +1,15 @@
+{
+  "name": "basic-info-site",
+  "version": "1.0.0",
+  "description": "[Replit Demo](https://7114e0fc-4f75-4ae4-bf0f-4cad36ef7182-00-dfu67nf7wbj1.spock.replit.dev/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
